@@ -16,9 +16,9 @@
 		"haxiomic"
 	],
 	"dependencies": {
-		"node": "17.0.4",
-		"protobufjs": "6.11.2",
-		"long": "4.0.1"
+		"node": "",
+		"protobufjs": "",
+		"long": ""
 	},
 	"version": "0.6.7"
 }
